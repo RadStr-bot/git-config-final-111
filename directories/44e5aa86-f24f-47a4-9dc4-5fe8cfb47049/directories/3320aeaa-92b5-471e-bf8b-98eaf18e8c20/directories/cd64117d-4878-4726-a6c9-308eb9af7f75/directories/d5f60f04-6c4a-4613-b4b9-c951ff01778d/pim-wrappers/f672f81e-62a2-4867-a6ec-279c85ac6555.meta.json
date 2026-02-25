@@ -1,0 +1,21 @@
+{
+  "iri": "5e5aae98-4594-4b4c-9059-e64a65ef3562/44e5aa86-f24f-47a4-9dc4-5fe8cfb47049/3320aeaa-92b5-471e-bf8b-98eaf18e8c20/cd64117d-4878-4726-a6c9-308eb9af7f75/d5f60f04-6c4a-4613-b4b9-c951ff01778d/f672f81e-62a2-4867-a6ec-279c85ac6555",
+  "projectIri": "aae2747e-1aef-4c88-90ce-faa1ab37d4ab",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://www.w3.org/ns/odrl/2/ODRL22.ttl",
+    "label": {
+      "en": "ODRL22"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-25T13:44:58.795Z",
+    "modificationDate": "2026-02-25T13:45:37.618Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-25T13:45:48.069Z",
+  "_exportedBy": "http://localhost:3100"
+}

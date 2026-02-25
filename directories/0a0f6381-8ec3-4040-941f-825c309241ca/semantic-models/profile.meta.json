@@ -1,0 +1,21 @@
+{
+  "iri": "5e5aae98-4594-4b4c-9059-e64a65ef3562/0a0f6381-8ec3-4040-941f-825c309241ca/profile",
+  "projectIri": "e6ed88dd-5465-4813-bc75-42fc7555e85c",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT-AP HVD 3.0.0"
+    },
+    "documentBaseUrl": "https://mff-uk.github.io/specifications/dcat-ap-hvd/"
+  },
+  "metadata": {
+    "creationDate": "2026-02-25T13:45:06.276Z",
+    "modificationDate": "2026-02-25T13:45:42.400Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-25T13:45:48.158Z",
+  "_exportedBy": "http://localhost:3100"
+}
