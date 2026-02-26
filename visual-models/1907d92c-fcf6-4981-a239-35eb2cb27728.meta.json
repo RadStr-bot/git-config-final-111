@@ -1,0 +1,23 @@
+{
+  "iri": "9be2f6bd-cfe5-4340-82c4-933e500e46c1/1907d92c-fcf6-4981-a239-35eb2cb27728",
+  "projectIri": "560e3ae0-8cdf-4b51-89ec-bc9c41564b6f",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "View for DCAT-AP-CZ-HVD"
+    },
+    "description": {
+      "en": "View model for the profile"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-26T20:37:02.164Z",
+    "modificationDate": "2026-02-26T20:37:03.005Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-26T20:37:20.566Z",
+  "_exportedBy": "http://localhost:3100"
+}
